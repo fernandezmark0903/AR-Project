@@ -1,0 +1,14 @@
+<items>
+  <materials>
+    <name>Plastic</name>
+    <value>1</value>
+  </materials>
+  <materials>
+    <name>Wood</name>
+    <value>1</value>
+  </materials>
+  <materials>
+    <name>Metal</name>
+    <value>2</value>
+  </materials>
+</items>
